@@ -12,7 +12,7 @@ lang: en
 # <small>Release Notes for</small> <mark>RK043FN48H-CT672B LCD Component Drivers</mark>
 Copyright &copy; 2015 STMicroelectronics\
     
-[![ST logo](../../../../_htmresc/st_logo.png)](https://www.st.com){.logo}
+[![ST logo](_htmresc/st_logo.png)](https://www.st.com){.logo}
 </center>
 :::
 :::
@@ -35,8 +35,20 @@ This directory contains the RK043FN48H-CT672B LCD component drivers.
 # Update History
 
 ::: {.collapse}
-<input type="checkbox" id="collapse-section22" checked aria-hidden="true">
-<label for="collapse-section22" aria-hidden="true">V1.0.2 / 03-April-2019</label>
+<input type="checkbox" id="collapse-section4" checked aria-hidden="true">
+<label for="collapse-section4" aria-hidden="true">V1.0.3 / 30-October-2019</label>
+<div>			
+
+## Main Changes
+
+- Update st_logo.png inclusion path in Release notes.
+
+</div>
+:::
+
+::: {.collapse}
+<input type="checkbox" id="collapse-section3" checked aria-hidden="true">
+<label for="collapse-section3" aria-hidden="true">V1.0.2 / 03-April-2019</label>
 <div>			
 
 ## Main Changes
@@ -47,8 +59,8 @@ This directory contains the RK043FN48H-CT672B LCD component drivers.
 :::
 
 ::: {.collapse}
-<input type="checkbox" id="collapse-section21" aria-hidden="true">
-<label for="collapse-section21" aria-hidden="true">V1.0.1 / 31-August-2018</label>
+<input type="checkbox" id="collapse-section2" aria-hidden="true">
+<label for="collapse-section2" aria-hidden="true">V1.0.1 / 31-August-2018</label>
 <div>			
 
 ## Main Changes
@@ -59,8 +71,8 @@ This directory contains the RK043FN48H-CT672B LCD component drivers.
 :::
 
 ::: {.collapse}
-<input type="checkbox" id="collapse-section19" aria-hidden="true">
-<label for="collapse-section19" aria-hidden="true">V1.0.0 / 25-June-2015</label>
+<input type="checkbox" id="collapse-section1" aria-hidden="true">
+<label for="collapse-section1" aria-hidden="true">V1.0.0 / 25-June-2015</label>
 <div>			
 
 ## Main Changes
